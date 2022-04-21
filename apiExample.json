@@ -1,0 +1,35 @@
+{
+  "coord": { "lon": -86.7828, "lat": 36.0331 },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 67.21,
+    "feels_like": 65.17,
+    "temp_min": 64.49,
+    "temp_max": 69.1,
+    "pressure": 1022,
+    "humidity": 33
+  },
+  "visibility": 10000,
+  "wind": { "speed": 14.97, "deg": 190, "gust": 25.32 },
+  "clouds": { "all": 100 },
+  "dt": 1650497366,
+  "sys": {
+    "type": 2,
+    "id": 2006753,
+    "country": "US",
+    "sunrise": 1650452836,
+    "sunset": 1650500662
+  },
+  "timezone": -18000,
+  "id": 4608408,
+  "name": "Brentwood",
+  "cod": 200
+}
